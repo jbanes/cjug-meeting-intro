@@ -19,6 +19,11 @@ or
 ```bash
 python -m http.server 8000
 ```
-if you are using python 3 or up.
+if you are using python 3 or up. 
+
+Or if you're using a recent version of Java:
+```bash
+jwebserver -p 8000
+```
 
 Then point your browser at [http://localhost:8000](http://localhost:8000)
